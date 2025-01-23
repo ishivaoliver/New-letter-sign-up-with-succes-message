@@ -4,25 +4,46 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge.
+Newsletter Sign-Up Form with Success Message
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+## Overview
 
-**To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
+This project is a responsive and interactive newsletter sign-up form that adheres to the design and functional requirements provided by the Frontend Mentor challenge. The form allows users to:
 
-## The challenge
+Enter their email address and submit the form.
 
-**Features**
+View validation messages if:
+The field is left empty.
+The email address is incorrectly formatted.
+Receive a success message that includes their submitted email.
+Experience a responsive design optimized for various screen sizes.
+See hover and focus states for all interactive elements.
 
-Users are be able to:
+## Features
 
-- Add their email and submit the form
-- See a success message with their email after successfully submitting the form
-- See form validation messages if:
-  - The field is left empty
-  - The email address is not formatted correctly
-- View the optimal layout for the interface depending on their device's screen size
-- See hover and focus states for all interactive elements on the page
+Form Validation:
+
+Validates user input to ensure proper email format.
+
+Displays clear error messages for invalid or empty fields.
+
+Success Message:
+
+Confirms successful submission with a personalized message.
+
+Responsive Design:
+
+Optimized for desktop, tablet, and mobile devices.
+
+Accessibility:
+
+Semantic HTML structure with proper labels and ARIA attributes.
+
+Keyboard-navigable form elements with focus outlines.
+
+Interactive Elements:
+
+Hover and focus states for buttons and input fields.
 
 ## Building your project
 
