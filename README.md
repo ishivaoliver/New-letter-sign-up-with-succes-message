@@ -22,14 +22,10 @@ See hover and focus states for all interactive elements.
 ## Features
 
 Form Validation:
-
-Validates user input to ensure proper email format.
-
-Displays clear error messages for invalid or empty fields.
-
-Success Message:
-
-Confirms successful submission with a personalized message.
+1.Validates user input to ensure proper email format.
+2.Displays clear error messages for invalid or empty fields.
+3.Success Message:
+4.Confirms successful submission with a personalized message.
 
 Responsive Design:
 
