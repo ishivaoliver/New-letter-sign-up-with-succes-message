@@ -22,6 +22,7 @@ See hover and focus states for all interactive elements.
 ## Features
 
 Form Validation:
+
 1.Validates user input to ensure proper email format.
 
 2.Displays clear error messages for invalid or empty fields.
