@@ -8,3 +8,14 @@
     color: hsl(228, 45%, 44%);
   }
 </style>  */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: jetbrains mono;
+}
+
+body {
+  background-color: hsl(0, 0%, 98%);
+}
